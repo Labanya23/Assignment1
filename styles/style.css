@@ -1,0 +1,76 @@
+.body1{
+    font-family:"Open Sans",sans-serif;
+    font-optical-sizing:auto;
+    font-style:normal;
+    font-variation-settings:
+       "wdth" 100;
+}
+.btn-primary{
+    background-color:#006A50;
+    font-weight:normal;
+    font-size:20px;
+    color:blue;
+    padding:10px 25px;
+    border-radius:5px;
+    border:none;
+
+
+}
+
+nav{
+    display:flex;
+    align-items:center;
+    justify-content:space-between;
+    margin: 10px 800px;
+}
+.nav-title{
+    font-weight:700;
+    font-size:20px;
+}
+
+nav ul{
+    display:flex;
+    align-items:center;
+}
+nav ul li{
+    list-style:none;
+    margin-right:50px;
+}
+nav li a{
+    text-decoration:none;
+    font-size:20px;
+}
+.header{
+    background-color:#b5d5c6;
+    padding:30px;
+    border-radius:10px;
+}
+.banner{
+    display:flex;
+    justify-content:space-between;
+    margin: 0 0px 0 30px
+}
+.banner-profile-pic{
+    width:330px;
+    margin:0 0px 50px 10px
+}
+.banner-content{
+    max-width:570px;
+}
+.banner-greetings{
+    font-weight:bold;
+    text-decoration:#0E0E0E;
+    
+}
+.banner-title{
+    font-weight:bold;
+}
+.btn-primary1{
+    background-color:#216b59;
+    font-weight:normal;
+    font-size:20px;
+    color:white;
+    padding:5px 15px;
+    border-radius:5px;
+    border:none;
+}
