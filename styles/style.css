@@ -44,10 +44,11 @@ nav li a{
     background-color:#b5d5c6;
     padding:30px;
     border-radius:10px;
+    
 }
 .banner{
     display:flex;
-    justify-content:space-between;
+    justify-content:20px;
     margin: 0 0px 0 30px
 }
 .banner-profile-pic{
