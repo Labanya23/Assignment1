@@ -105,3 +105,41 @@ nav li a{
     border-radius:5px;
     border:none;
 }
+
+.pillar-heading{
+    font-size:40px;
+    font-weight:700px;
+    margin-top:70px;
+    margin-bottom:30px;
+    margin-left:150px;
+    color:#0E0E0E;
+}
+
+.pillar-box{
+    /*display:flex;*/
+    width:350px;
+    height:auto;
+    border-radius:15px;
+    border:1px solid rgb(207,206,206);
+    background-color:white;
+    padding:23px;
+}
+.pillars-box{
+    display:flex;
+    margin-left:150px;
+    margin-right:150px;
+    margin-bottom:80px;
+    justify-content:space-evenly;
+    gap:30px;
+}
+.pillars-heading{
+    font-size:20px;
+    font-weight:600px;
+    color:#2b2b2b;
+    margin-bottom:12px;
+}
+.pilars-description{
+    font-size:16px;
+    color:#2c2b2b;
+    margin-bottom:23px;
+}
