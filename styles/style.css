@@ -143,3 +143,50 @@ nav li a{
     color:#2c2b2b;
     margin-bottom:23px;
 }
+.visionfuture-description{
+    font-size:16px;
+    color:#4c4c4c;
+    margin-bottom:24px;
+    margin-left:150px;
+    margin-right:150px;
+
+}
+.vision-box{
+    display:flex;
+    margin-left:140px;
+    margin-right:140px;
+    margin-top:60px;
+    justify-content:space-evenly;
+}
+.vision-box1{
+    width:410px;
+    height:auto;
+    border-radius:16px;
+    background-color:#dfe5f9;
+    padding:30px;
+
+}
+.vision-box2{
+    width:410px;
+    height:auto;
+    border-radius:16px;
+    background-color:#C0cbda;
+    padding:30px;
+}
+.vision-box3{
+    width:410px;
+    height:auto;
+    border-radius:16px;
+    background-color:#e9ddc0;
+    padding:30px;
+}
+.learn{
+    color:#f4eded;
+    background-color:#5490F5;
+    padding:9px 18px;
+    text-decoration:none;
+    border:none;
+    border-radius:8px;
+}
+
+
